@@ -1,0 +1,3 @@
+﻿  Math game.cpp
+D:\vs projects\Math game\Math game\Math game.cpp(199,1): warning C4715: 'generateQuestionAndReturnAnswer': not all control paths return a value
+  Math game.vcxproj -> D:\vs projects\Math game\x64\Debug\Math game.exe
